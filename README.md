@@ -59,7 +59,7 @@ Copy from `.env.example` and add your credentials:
 ```env
 PORT=4000
 MONGO_URI=mongodb+srv://<your-db-user>:<your-password>@cluster0.mongodb.net/
-JWT_SECRET=secret
+JWT_SECRET=secretkey......
 ```
 
 ### 4️⃣ Start the Server
